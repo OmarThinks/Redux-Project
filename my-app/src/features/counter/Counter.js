@@ -7,6 +7,7 @@ import {
   incrementAsync,
   incrementIfOdd,
   selectCount,
+  myIncrementIfOdd
 } from './counterSlice';
 import styles from './Counter.module.css';
 
